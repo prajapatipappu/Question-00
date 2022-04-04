@@ -1,8 +1,0 @@
-C:\Users\pappu\source\repos\Testno00\Testno00\bin\Debug\Testno00.exe.config
-C:\Users\pappu\source\repos\Testno00\Testno00\bin\Debug\Testno00.exe
-C:\Users\pappu\source\repos\Testno00\Testno00\bin\Debug\Testno00.pdb
-C:\Users\pappu\source\repos\Testno00\Testno00\obj\Debug\Testno00.csproj.AssemblyReference.cache
-C:\Users\pappu\source\repos\Testno00\Testno00\obj\Debug\Testno00.csproj.SuggestedBindingRedirects.cache
-C:\Users\pappu\source\repos\Testno00\Testno00\obj\Debug\Testno00.csproj.CoreCompileInputs.cache
-C:\Users\pappu\source\repos\Testno00\Testno00\obj\Debug\Testno00.exe
-C:\Users\pappu\source\repos\Testno00\Testno00\obj\Debug\Testno00.pdb
