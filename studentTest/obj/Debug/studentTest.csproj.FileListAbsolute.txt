@@ -1,0 +1,8 @@
+C:\Users\pappu\source\repos\studentTest\studentTest\bin\Debug\studentTest.exe.config
+C:\Users\pappu\source\repos\studentTest\studentTest\bin\Debug\studentTest.exe
+C:\Users\pappu\source\repos\studentTest\studentTest\bin\Debug\studentTest.pdb
+C:\Users\pappu\source\repos\studentTest\studentTest\obj\Debug\studentTest.csproj.AssemblyReference.cache
+C:\Users\pappu\source\repos\studentTest\studentTest\obj\Debug\studentTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pappu\source\repos\studentTest\studentTest\obj\Debug\studentTest.csproj.CoreCompileInputs.cache
+C:\Users\pappu\source\repos\studentTest\studentTest\obj\Debug\studentTest.exe
+C:\Users\pappu\source\repos\studentTest\studentTest\obj\Debug\studentTest.pdb
